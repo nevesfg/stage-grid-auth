@@ -12,6 +12,12 @@
           </ul>
         </p>
         <br>
+        <p style="margin-top: 20px;">
+          <strong>API Endpoints:</strong><br>
+          • <a href="https://nevesfg.com/desafio-lsmais/api/" target="_blank" style="color: #007bff; text-decoration: none;">API REST</a> - Endpoints da API<br>
+          • <a href="https://nevesfg.com/desafio-lsmais/api/doc/" target="_blank" style="color: #007bff; text-decoration: none;">Documentação Swagger</a> - Documentação interativa da API
+        </p>
+        <br>
         <router-link class="style-input" to="/register">Teste o projeto</router-link>
       </div>
     </div>
